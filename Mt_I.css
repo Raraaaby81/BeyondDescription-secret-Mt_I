@@ -1,0 +1,131 @@
+/* body */
+body{
+  background-image: url("https://cdn.discordapp.com/attachments/294771564115656704/660384459304075277/ZoDYOn6.jpg?width=998&height=587");
+  background-size: cover;
+  background-attachment: fixed;
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+}
+
+
+
+/* main */
+.main{
+  background-color: #f5f5f56b;
+  margin: 7vw 10vw;
+  padding: 3vw 8vw;
+  border: 2px solid #00ff0f;
+  box-shadow: 0 0 10px rgba(0,0,0,1);
+}
+
+.mt1{
+  font-size: 2.5vw;
+  color: #ff5099;
+  padding-top: 2vw;
+}
+.mt2{
+  font-size: 3vw;
+  color: #ffe000;
+  font-family: "Lucida Grande";
+  border-bottom:medium solid black;
+  padding-left: 1vw;
+  margin-bottom: 1vw;
+}
+
+.md{
+  font-family: YuMincho;
+  border-left: thin solid #737373;
+  border-right: thin solid #737373;
+  padding: 1vw 5vw;
+}
+
+.mdn{
+  border: solid thin #b5b5b5;
+  padding: 0.5vw 1vw;
+  margin-bottom: 1vw;
+}
+.mdn1{
+  font-size: 1.8vw;
+  padding-bottom: 0.1vw;
+}
+.mdn2{
+  font-size: 2vw;
+  color: blue;
+  padding-left: 1vw;
+}
+
+.mdr{
+  border: solid thin #b5b5b5;
+  padding: 0.5vw 1vw;
+  margin-bottom: 1vw;
+}
+.mdr1{
+  font-size: 1.8vw;
+  padding-bottom: 0.1vw;
+}
+.mdr2{
+  font-size: 2vw;
+  color: #ffe000;
+  padding-left: 1vw;
+}
+
+.mdj{
+  border: solid thin #b5b5b5;
+  padding: 0.5vw 1vw;
+  margin-bottom: 1vw;
+}
+.mdj1{
+  font-size: 1.8vw;
+  padding-bottom: 0.1vw;
+}
+.mdj2{
+  font-size: 2vw;
+  color: red;
+  padding-left: 1vw;
+}
+
+.mdg{
+  border: solid thin #b5b5b5;
+  padding: 0.5vw 1vw;
+  margin-bottom: 1vw;
+}
+.mdg1{
+  font-size: 1.8vw;
+  padding-bottom: 0.1vw;
+}
+.mdg2{
+  font-size: 2vw;
+  color: purple;
+  padding-left: 1vw;
+}
+
+.mdc{
+  border: solid thin #b5b5b5;
+  padding: 0.5vw 1vw;
+  margin-bottom: 1vw;
+}
+.mdc1{
+  font-size: 1.8vw;
+  padding-bottom: 0.1vw;
+}
+.mdc2{
+  font-size: 2vw;
+  color: #159ebd;
+  padding-left: 1vw;
+}
+
+.mdd{
+  font-size: 1.5vw;
+  border: solid thin #b5b5b5;
+  padding: 0.5vw 1vw;
+  margin-bottom: 1vw;
+}
+
+.home{
+  font-size: 2vw;
+  border: thin solid #18899854;
+  padding-left: 4.5vw;
+  margin-top: 2vw;
+  margin-left: 40vw;
+}
